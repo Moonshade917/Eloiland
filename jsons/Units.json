@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Forgeron",
+		"unitType": "Civilian",
+		"uniqueTo": "Eloiland",
+		"movement": 5,
+		"uniques": ["Can speed up construction of a building", "Can construct [Forge]", "Can construct [Fonderie] <after discovering [Electricity]>", "Great Person - [Production]", "Unbuildable", "Uncapturable"],
+	}
+]

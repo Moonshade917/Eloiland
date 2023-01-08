@@ -1,0 +1,33 @@
+game.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Eloiland
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Forgeron
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Improvement/Forge
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Improvement/Fonderie
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

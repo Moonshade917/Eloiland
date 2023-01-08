@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Eloiland",
+		"leaderName": "Eloi",
+		"adjective": ["Le forgeron"],
+		"preferredVictoryType": "Domination",
+		"startBias": ["Hill"],
+		
+		"startIntroPart1": "J'espère que la forge sera avec vous",
+		"startIntroPart2": "Essaie de tuer tes adversaires le plus vite sinon tu n'aura plus l'avantage",					
+		
+		"declaringWar": "Craigner le grand forgeron",
+		"attacked": "Vous n'avez pas peur de ma souplesse?",
+		"defeated": "Comment est-ce possible?",
+		"introduction": "Salut, je suis le dieu des métaux",
+
+		"neutralHello": "Yo",		
+		"hateHello": "Mon or!! tu ne l'aura pas... hahaha!",	
+
+		"afterPeace": "Tu as enfin compris ton erreur",
+		"tradeRequest": "tu veux du fer?",
+
+		"outerColor": [255, 0, 100],
+		"innerColor": [255,255,255],
+		"uniqueName": "The Forgeron",
+		"uniques": ["Starts with [Bronze Working]","Receive free [Forgeron] when you discover [Electricity]", "Receive free [Forgeron] when you discover [Iron Working]", "[+2 Culture] [in all city]", "[-1 Science] [in Capital]"]
+		"cities": ["Eloiland"]
+	}
+]
