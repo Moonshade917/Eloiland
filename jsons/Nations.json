@@ -20,7 +20,7 @@
 		"afterPeace": "Tu as enfin compris ton erreur",
 		"tradeRequest": "tu veux du fer?",
 
-		"outerColor": [255, 0, 100],
+		"outerColor": [255, 100, 100],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Forgeron",
 		"uniques": ["Starts with [Bronze Working]","Receive free [Forgeron] when you discover [Electricity]", "Receive free [Forgeron] when you discover [Iron Working]", "[+2 Culture] [in all cities]", "[-1 Science] [in capital]"]
