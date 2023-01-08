@@ -4,7 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"turnsToBuild": 2,
 		"Production": 2,
-		"uniques": ["[+5 Iron]",],
+		"uniques": ["[+5 Iron]"],
 		"shortcutKey": "F"
 	},
 	
@@ -13,7 +13,7 @@
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"turnsToBuild": 2,
 		"Production": 2,
-		"uniques": ["[+5 Aluminum] <after discovering [Electricity]>",],
+		"uniques": ["[+5 Aluminum] <after discovering [Electricity]>"],
 		"shortcutKey": "F"
 	},
 ]
