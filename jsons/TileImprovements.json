@@ -3,10 +3,8 @@
 		"name": "Forge",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"turnsToBuild": 2,
-		"Iron": 5,
-		"uniques": [
-					"[+5 Iron]",
-					],
+		"Production": 2,
+		"uniques": ["[+5 Iron]",],
 		"shortcutKey": "F"
 	},
 	
@@ -14,10 +12,8 @@
 		"name": "Fonderie",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"turnsToBuild": 2,
-		"Aluminum": 5,
-		"uniques": [
-					"[+5 Aluminum] <after discovering [Electricity]>",
-					],
+		"Production": 2,
+		"uniques": ["[+5 Aluminum] <after discovering [Electricity]>",],
 		"shortcutKey": "F"
 	},
 ]
