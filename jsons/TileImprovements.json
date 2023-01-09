@@ -2,18 +2,16 @@
 	{
 		"name": "Forge",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"turnsToBuild": 20,
 		"uniqueTo": "Eloiland",
-		"production": 3,
-		"uniques": ["Great Improvement","Provides [5] [Iron]", "Cannot be built by [Worker]"],
+		"production": 5,
+		"uniques": ["Great Improvement","Provides [10] [Iron]"],
 	},
 	
 		{
 		"name": "Fonderie",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"turnsToBuild": 20,
 		"uniqueTo": "Eloiland",
-		"production": 3,
-		"uniques": ["Great Improvement","Provides [5] [Aluminum] <after discovering [Electricity]>", "Cannot be built by [Worker]"],
+		"production": 5,
+		"uniques": ["Great Improvement","Provides [10] [Aluminum] <after discovering [Electricity]>"],
 	},
 ]
