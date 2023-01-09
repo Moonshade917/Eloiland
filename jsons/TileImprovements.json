@@ -5,12 +5,12 @@
 		"turnsToBuild": 20,
 		"uniqueTo": "Eloiland",
 		"production": 3,
-		"uniques": ["Great Improvement","Provides [5] [Iron]"],
+		"uniques": ["Great Improvement","Provides [5] [Iron]", "Can be built only by [Forgeron]"],
 	},
 	
 		{
 		"name": "Fonderie",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Hill"],
 		"turnsToBuild": 20,
 		"uniqueTo": "Eloiland",
 		"production": 3,
