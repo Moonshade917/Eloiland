@@ -1,9 +1,11 @@
 [
 	{
 		"name": "Forgeron",
-		"unitType": "Civilian",
+		"unitType": "Sword",
 		"uniqueTo": "Eloiland",
 		"movement": 5,
-		"uniques": ["Can speed up construction of a building", "Can build [Forge] improvements on tiles", "Can build [Fonderie] improvements on tiles <after discovering [Electricity]>", "Unbuildable", "Uncapturable"],
+		"strength": 12,
+		"attackSound": "nonmetalhit"
+		"uniques": ["[+100]% Strength <after discovering [Steel]>", "[+100]% Strength <after discovering [Chemistry]>", "[+100]% Strength <after discovering [Dynamite]>", "[+100]% Strength <after discovering [Combustion]>", "[+100]% Strength <after discovering [Computers]>", "[+100]% Strength <after discovering [Steath]>", "[+200]% Strength <after discovering [Future Tech]>","Can speed up construction of a building", "Can construct [Forge]", "Can construct [Fonderie] <after discovering [Electricity]>", "Unbuildable", "Uncapturable"],
 	}
 ]
